@@ -894,8 +894,15 @@ int yywrap( )
 {   
 return 1;   
 }  
-Output: 
+
+
+
+
+
+
 4. Write a LEX Program to check the email address is valid or not.  
+
+
 Code (Lex):  
 %{  
 #include <stdio.h>  
